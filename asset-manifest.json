@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/underpeelsite/static/css/main.a4139e72.css",
-    "main.js": "/underpeelsite/static/js/main.4c5ee503.js",
+    "main.css": "/underpeelsite/static/css/main.3ad31dde.css",
+    "main.js": "/underpeelsite/static/js/main.328c7636.js",
     "static/js/787.03e515e0.chunk.js": "/underpeelsite/static/js/787.03e515e0.chunk.js",
     "static/media/ATZ.png": "/underpeelsite/static/media/ATZ.4bcc6336b3c4c37d99ae.png",
     "static/media/SE.png": "/underpeelsite/static/media/SE.0173688b1e4c64db0617.png",
     "static/media/TMX.png": "/underpeelsite/static/media/TMX.ac8eb116b78b51191208.png",
     "static/media/FNC.png": "/underpeelsite/static/media/FNC.71457782016064e0984f.png",
+    "static/media/GZ.png": "/underpeelsite/static/media/GZ.6b1d3af2e545452da25f.png",
     "static/media/TMNT.png": "/underpeelsite/static/media/TMNT.786898f918c98b3b95d4.png",
     "static/media/SCN.png": "/underpeelsite/static/media/SCN.209a3fc623b57afedabc.png",
+    "static/media/HOOJ.png": "/underpeelsite/static/media/HOOJ.c69143d798e97eb98ff6.png",
+    "static/media/POUT.png": "/underpeelsite/static/media/POUT.64809b19579b7f72120f.png",
+    "static/media/MRK.png": "/underpeelsite/static/media/MRK.8b5a53e16cd2984ead2b.png",
+    "static/media/UWU.png": "/underpeelsite/static/media/UWU.4ec0b8c10a2a5afdaec8.png",
     "static/media/LOUD.png": "/underpeelsite/static/media/LOUD.722cb68cbbed7ec646fb.png",
+    "static/media/JPT.png": "/underpeelsite/static/media/JPT.c81c7dee505731a78396.png",
     "static/media/GQ.png": "/underpeelsite/static/media/GQ.d3f424520ef7ea120bff.png",
     "static/media/ODY.png": "/underpeelsite/static/media/ODY.f9ff7b4dad35adeeec2b.png",
+    "static/media/FROG.png": "/underpeelsite/static/media/FROG.a8e938e771511098d4aa.png",
     "static/media/roboto-latin-500-normal.woff2": "/underpeelsite/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/underpeelsite/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/underpeelsite/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -60,7 +67,6 @@
     "static/media/roboto-vietnamese-400-normal.woff": "/underpeelsite/static/media/roboto-vietnamese-400-normal.e0e8ba725ebd107367a8.woff",
     "static/media/roboto-vietnamese-500-normal.woff": "/underpeelsite/static/media/roboto-vietnamese-500-normal.657896dad292ee9a0a0a.woff",
     "static/media/roboto-vietnamese-700-normal.woff": "/underpeelsite/static/media/roboto-vietnamese-700-normal.4df79f684fcbca8386bd.woff",
-    "static/media/logo.svg": "/underpeelsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/roboto-greek-ext-500-normal.woff2": "/underpeelsite/static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
     "static/media/roboto-greek-ext-400-normal.woff2": "/underpeelsite/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-300-normal.woff2": "/underpeelsite/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
@@ -70,12 +76,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/underpeelsite/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/underpeelsite/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/underpeelsite/index.html",
-    "main.a4139e72.css.map": "/underpeelsite/static/css/main.a4139e72.css.map",
-    "main.4c5ee503.js.map": "/underpeelsite/static/js/main.4c5ee503.js.map",
+    "main.3ad31dde.css.map": "/underpeelsite/static/css/main.3ad31dde.css.map",
+    "main.328c7636.js.map": "/underpeelsite/static/js/main.328c7636.js.map",
     "787.03e515e0.chunk.js.map": "/underpeelsite/static/js/787.03e515e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4139e72.css",
-    "static/js/main.4c5ee503.js"
+    "static/css/main.3ad31dde.css",
+    "static/js/main.328c7636.js"
   ]
 }
