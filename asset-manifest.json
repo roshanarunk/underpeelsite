@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/underpeelsite/static/css/main.9526a887.css",
-    "main.js": "/underpeelsite/static/js/main.328c7636.js",
+    "main.js": "/underpeelsite/static/js/main.94640eab.js",
     "static/js/787.03e515e0.chunk.js": "/underpeelsite/static/js/787.03e515e0.chunk.js",
     "static/media/ATZ.png": "/underpeelsite/static/media/ATZ.4bcc6336b3c4c37d99ae.png",
     "static/media/SE.png": "/underpeelsite/static/media/SE.0173688b1e4c64db0617.png",
@@ -77,11 +77,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/underpeelsite/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/underpeelsite/index.html",
     "main.9526a887.css.map": "/underpeelsite/static/css/main.9526a887.css.map",
-    "main.328c7636.js.map": "/underpeelsite/static/js/main.328c7636.js.map",
+    "main.94640eab.js.map": "/underpeelsite/static/js/main.94640eab.js.map",
     "787.03e515e0.chunk.js.map": "/underpeelsite/static/js/787.03e515e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9526a887.css",
-    "static/js/main.328c7636.js"
+    "static/js/main.94640eab.js"
   ]
 }
