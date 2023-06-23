@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/underpeelsite/static/css/main.adc2afc4.css",
-    "main.js": "/underpeelsite/static/js/main.9a032a68.js",
+    "main.css": "/underpeelsite/static/css/main.4c4fb294.css",
+    "main.js": "/underpeelsite/static/js/main.9fee17bc.js",
     "static/js/787.03e515e0.chunk.js": "/underpeelsite/static/js/787.03e515e0.chunk.js",
     "static/media/ATZ.png": "/underpeelsite/static/media/ATZ.4bcc6336b3c4c37d99ae.png",
     "static/media/SE.png": "/underpeelsite/static/media/SE.0173688b1e4c64db0617.png",
@@ -70,12 +70,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/underpeelsite/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/underpeelsite/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/underpeelsite/index.html",
-    "main.adc2afc4.css.map": "/underpeelsite/static/css/main.adc2afc4.css.map",
-    "main.9a032a68.js.map": "/underpeelsite/static/js/main.9a032a68.js.map",
+    "main.4c4fb294.css.map": "/underpeelsite/static/css/main.4c4fb294.css.map",
+    "main.9fee17bc.js.map": "/underpeelsite/static/js/main.9fee17bc.js.map",
     "787.03e515e0.chunk.js.map": "/underpeelsite/static/js/787.03e515e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adc2afc4.css",
-    "static/js/main.9a032a68.js"
+    "static/css/main.4c4fb294.css",
+    "static/js/main.9fee17bc.js"
   ]
 }
